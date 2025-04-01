@@ -1,7 +1,7 @@
 # sc4-undo
 
 A DLL Plugin for SimCity 4 that adds an undo command to the game.    
-The plugin can be downloaded from the Releases tab: https://github.com/0xC0000054/sc4-disable-cheats/releases
+The plugin can be downloaded from the Releases tab: https://github.com/0xC0000054/sc4-undo/releases
 
 ## System Requirements
 
