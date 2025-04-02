@@ -1,6 +1,9 @@
 # sc4-undo
 
-A DLL Plugin for SimCity 4 that adds an undo command to the game.    
+## This was an April fools day joke.
+In response to the _Control + Z_ shortcut it show an in-game message box with "Happy April Fools Day.".
+
+It now serves as a demo of how a DLL can add its own keyboard shortcuts to the game.   
 The plugin can be downloaded from the Releases tab: https://github.com/0xC0000054/sc4-undo/releases
 
 ## System Requirements
